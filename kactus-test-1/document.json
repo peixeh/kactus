@@ -1,0 +1,149 @@
+{
+  "_class": "document",
+  "assets": {
+    "_class": "assetCollection",
+    "colorAssets": [
+    ],
+    "colors": [
+    ],
+    "do_objectID": "E68EB134-6E20-4722-9CFC-5231EBC44D17",
+    "exportPresets": [
+    ],
+    "gradientAssets": [
+    ],
+    "gradients": [
+    ],
+    "imageCollection": {
+      "_class": "imageCollection",
+      "images": {
+      }
+    },
+    "images": [
+    ]
+  },
+  "colorSpace": 0,
+  "do_objectID": "9d0eacc0-35a6-11eb-a72a-e7d3bd4bb020",
+  "documentState": {
+    "_class": "documentState"
+  },
+  "fontReferences": [
+    {
+      "_class": "fontReference",
+      "do_objectID": "23081F1D-FEBD-401E-99B5-22D522A5CD3A",
+      "fontFamilyName": "Inter",
+      "fontFileName": "Inter-SemiBold-slnt=0.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Inter-SemiBold"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "4C4E1CFE-5128-4BF2-8BB9-06ECA9BC4F9C",
+      "fontFamilyName": "Inter",
+      "fontFileName": "Inter-ExtraLight-slnt=0.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Inter-ExtraLight"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "535CDA3D-1B38-4F96-8B85-97FDDFC05F57",
+      "fontFamilyName": "Inter",
+      "fontFileName": "Inter-Medium-slnt=0.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Inter-Medium"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "6C5CDFBB-3703-4B81-84D2-179A19329B94",
+      "fontFamilyName": "Inter",
+      "fontFileName": "Inter-Bold-slnt=0.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Inter-Bold"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "87E9470E-AB4B-4BB2-8534-6123BCBE596B",
+      "fontFamilyName": "Inter",
+      "fontFileName": "Inter-ExtraBold-slnt=0.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Inter-ExtraBold"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "953232F7-6C53-4781-AD2D-6781D6F3EB1D",
+      "fontFamilyName": "Inter",
+      "fontFileName": "Inter-Thin-slnt=0.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Inter-Thin"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "DFA47FD8-3C5A-4D9B-8E7D-4402BDAD8126",
+      "fontFamilyName": "Inter",
+      "fontFileName": "Inter-Light-slnt=0.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Inter-Light"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "E08F80AA-C0B5-4579-AD9F-EF3E211480F0",
+      "fontFamilyName": "Inter",
+      "fontFileName": "Inter-Black-slnt=0.ttf",
+      "options": 2,
+      "postscriptNames": [
+        "Inter-Black"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "FC44E8AF-65CC-48A8-895B-6D18457C49E8",
+      "fontFamilyName": "Inter",
+      "fontFileName": "Inter-Regular-slnt=0.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Inter-Regular"
+      ]
+    }
+  ],
+  "foreignLayerStyles": [
+  ],
+  "foreignSwatches": [
+  ],
+  "foreignSymbols": [
+  ],
+  "foreignTextStyles": [
+  ],
+  "layerSymbols": {
+    "_class": "symbolContainer",
+    "do_objectID": "B23289EE-37BD-11EB-A72A-ECD1BD6AC94D",
+    "objects": [
+    ]
+  },
+  "meta": {
+    "appVersion": "70.2",
+    "build": 109071,
+    "version": 134
+  },
+  "pages": [
+    "Page 1"
+  ],
+  "sharedSwatches": {
+    "_class": "swatchContainer",
+    "do_objectID": "A43E8DEE-37BD-11EB-A72A-ECD1BD6AC741",
+    "objects": [
+    ]
+  }
+}
