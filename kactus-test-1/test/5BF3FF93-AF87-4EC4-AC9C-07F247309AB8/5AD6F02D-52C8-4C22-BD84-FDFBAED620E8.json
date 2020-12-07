@@ -9,15 +9,15 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.1919600453381826,
-            "green": 0.8048632605258704,
-            "red": 0.911514945652174
+            "blue": 0.911514945652174,
+            "green": 0.4111208063330744,
+            "red": 0.1919600453381826
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Inter-Black",
-              "size": 80
+              "size": 48
             }
           },
           "paragraphStyle": {
@@ -26,11 +26,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 6,
+        "length": 8,
         "location": 0
       }
     ],
-    "string": "oi oi!"
+    "string": "oi nique"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -49,12 +49,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 97,
-    "width": 192,
-    "x": 17,
-    "y": 0
+    "height": 59,
+    "width": 191,
+    "x": 18.5,
+    "y": 33
   },
-  "glyphBounds": "{{2, 15}, {184, 64}}",
+  "glyphBounds": "{{1, 9}, {188, 48}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -63,7 +63,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 3,
-  "name": "oi oi!",
+  "name": "oi nique",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -119,15 +119,15 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.1919600453381826,
-          "green": 0.8048632605258704,
-          "red": 0.911514945652174
+          "blue": 0.911514945652174,
+          "green": 0.4111208063330744,
+          "red": 0.1919600453381826
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Inter-Black",
-            "size": 80
+            "size": 48
           }
         },
         "paragraphStyle": {
